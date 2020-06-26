@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-06-25T17:50:38Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Buck scetch"
+        },
+        "Owner": "Mitransh Choubisa <mb3334@srmist.edu.in>",
+        "Size": {
+            "X": 42.85,
+            "Y": 67.3
+        }
+    }
+}
